@@ -25,8 +25,6 @@ Each task is implemented in a separate Python file and demonstrates different pr
 2. Open a terminal or command prompt.
 3. Navigate to the project folder.
 4. Run the desired task using:
-
-```bash
 python task_1.py
 
 Replace task_1.py with task_2.py, task_3.py, task_4.py etc. to run a different task.
