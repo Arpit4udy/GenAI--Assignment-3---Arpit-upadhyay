@@ -23,9 +23,9 @@ Each task is implemented in a separate Python file and demonstrates different pr
 * Download or clone the project.
 * Open a terminal or command prompt.
 * Navigate to the project folder.
-* Run the desired task using: python Task-1.py
+* Run the desired task using: python task_1.py
 
-Replace Task-1.py with Task-2.py, Task-3.py, Task-4.py etc. to run a different task.
+Replace task_1.py with task_2.py, task_3.py, task_4.py etc. to run a different task.
   
 ## Technologies Used
 
