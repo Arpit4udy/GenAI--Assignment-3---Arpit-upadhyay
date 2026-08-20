@@ -10,13 +10,13 @@ Each task is implemented in a separate Python file and demonstrates different pr
 
 | Task | Description                  | File                   |
 | ---- | ---------------------------- | ---------------------- |
-| 1    | Basic Function               | [Task_1.py](Task-1.py) |
-| 2    | Recursive Function           | [Task_2.py](Task-2.py) |
-| 3    | Lambda Function              | [Task_3.py](Task-3.py) |
-| 4    | Using map()                  | [Task_4.py](Task-4.py) |
-| 5    | Using filter()               | [Task_5.py](Task-5.py) |
-| 6    | Combined Utility Function    | [Task_6.py](Task-6.py) |
-| 7    | Menu Using Function          | [Task_7.py](Task-7.py) |
+| 1    | Basic Function               | [Task 1](task_1.py) |
+| 2    | Recursive Function           | [Task 2](task_2.py) |
+| 3    | Lambda Function              | [Task 3](task_3.py) |
+| 4    | Using map()                  | [Task 4](task_4.py) |
+| 5    | Using filter()               | [Task 5](task_5.py) |
+| 6    | Combined Utility Function    | [Task 6](task_6.py) |
+| 7    | Menu Using Function          | [Task 7](task_7.py) |
 
 
 ## How to Run
