@@ -20,10 +20,14 @@ Each task is implemented in a separate Python file and demonstrates different pr
 
 
 ## How to Run
-* Download or clone the project.
-* Open a terminal or command prompt.
-* Navigate to the project folder.
-* Run the desired task using: python task_1.py
+
+1. Clone or download this repository.
+2. Open a terminal or command prompt.
+3. Navigate to the project folder.
+4. Run the desired task using:
+
+```bash
+python task_1.py
 
 Replace task_1.py with task_2.py, task_3.py, task_4.py etc. to run a different task.
   
